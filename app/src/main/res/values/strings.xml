@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StringListView</string>
+
+    <string name="order">Order:</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="dish_menu">
+        <item>排骨飯</item>
+        <item>雞腿飯</item>
+        <item>鱈魚飯</item>
+        <item>鐵板麵</item>
+        <item>炸豆腐</item>
+        <item>毛豆</item>
+        <item>紅茶</item>
+        <item>綠茶</item>
+    </string-array>
+</resources>
